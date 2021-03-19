@@ -9,6 +9,8 @@ This plugin posts new events to a configurable forum.
 
 It can also post event updates to the forum as replies, as long as the event name does not change. If there is more than one forum post in the category with the same name, it will reply to the most recent one.
 
+**NOTE:** This is not a fully standalone plugin - it requires some very minimal insertion of code into the core events plugin. This could cause conflicts during upgrades that you would need to sort out - but they should be minimal and easy to identify.
+
 ## Web Portal
 
 This plugin has no web portal code.  
