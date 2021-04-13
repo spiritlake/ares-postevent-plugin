@@ -1,4 +1,4 @@
 ---
 post_event:
   event_forum: Events
-  reply_on_edit?: true
+  reply_on_edit: true
